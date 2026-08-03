@@ -60,7 +60,7 @@ Machine Learning Pipeline
 Titanic - Machine Learning from Disaster
 
 **Developer:**  
-[Your Name Here]
+Shah Hassan Nawab
 
 ---
 **About:**  
